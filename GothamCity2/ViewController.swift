@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     }
 
     
+    func drugs() {
+        
+        print("DRUGS")
+    }
 }
 
