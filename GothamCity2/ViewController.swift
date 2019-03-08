@@ -27,13 +27,18 @@ class ViewController: UIViewController {
     }
     
     func giveMeSomeSugar() {
-        
+
         print("Give me some")
     }
     
     func hiDad() {
         
         print("Hi Dad")
+    }
+    
+    func whatsPoppinB() {
+        
+        print("Whats poppin B")
     }
 }
 
