@@ -25,5 +25,10 @@ class ViewController: UIViewController {
         
         print("DRUGS")
     }
+    
+    func giveMeSomeSugar() {
+        
+        print("Give me some")
+    }
 }
 
