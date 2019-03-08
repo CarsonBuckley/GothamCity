@@ -30,5 +30,10 @@ class ViewController: UIViewController {
         
         print("Give me some")
     }
+    
+    func hiDad() {
+        
+        print("Hi Dad")
+    }
 }
 
